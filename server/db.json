@@ -1,0 +1,21 @@
+{
+  "Employee": [
+    {
+      "name": "john1",
+      "username": "johndoe1",
+      "emai": "johndoe1@gmail.com",
+      "phone": 12345,
+      "website": "johndoeportfolio.com",
+      "id": 2,
+      "email": "njkk"
+    },
+    {
+      "name": "JOHNDOE2",
+      "username": "john1",
+      "email": "john1@gmail.com",
+      "phone": "1135465224",
+      "website": "john1portfolio.com",
+      "id": 3
+    }
+  ]
+}
