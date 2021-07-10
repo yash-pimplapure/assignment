@@ -5,7 +5,7 @@ import MaterialTable from 'material-table'
 
 
 function App() {
-  const url = "http://localhost:4000/employee"
+  const url = "https://jsonplaceholder.typicode.com/users"
   const [data, setData] = useState([])
   useEffect(() => {
     getemployee()
